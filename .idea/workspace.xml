@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c53632c-7775-44a0-9b01-ceeea8efe884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c53632c-7775-44a0-9b01-ceeea8efe884" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +57,6 @@
             <path>
               <item name="aircondition" type="b2602c69:ProjectViewProjectNode" />
               <item name="aircondition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aircondition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aircondition" type="462c0819:PsiDirectoryNode" />
-              <item name="fresh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aircondition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aircondition" type="462c0819:PsiDirectoryNode" />
-              <item name="toshiba" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
